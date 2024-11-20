@@ -1,0 +1,28 @@
+/* Stylesheet */
+
+.title {
+    color:blue;
+    font-size: 36px;
+    background-color: black;
+}
+
+li {
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:aqua;
+}
+
+.link3 {
+    background-color: green;
+}
+
+.ingredient{
+    font-size:21px;
+    color:chartreuse;
+    background-color: brown;
+}
+
+.odd {
+    color:pink;
+    background-color: blueviolet;
+}
